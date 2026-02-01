@@ -2,7 +2,7 @@
 <h1 align="centre">This Is Hrishabh</h1>
 <h3 align="centre">Software Developer</h3>
 
-<img align="centre" alt="coding" width="400" src=<img width="500" height="220" alt="image" src="https://github.com/user-attachments/assets/f5948d16-0189-4ad8-b74f-46317aaec3b0"/>
+<img width="500" height="220" alt="image" src="https://github.com/user-attachments/assets/f5948d16-0189-4ad8-b74f-46317aaec3b0"/>
 
 >
 - 🔭 I’m currently working on **Tax Ledzer**
