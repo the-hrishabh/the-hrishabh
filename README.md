@@ -5,11 +5,18 @@
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxodGtqdDgybXpzOXQ3eXVuaGxyOWN0MHgxd2RtZ2FsajRjcTYyaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hHxTQkcjmHUTC/giphy.gif"/>
 
 >
-- 🔭 I’m currently working on **HSI**
+- 🔭 I’m currently working on **HSI Project - TAX LEDZER**
 
 - 🌱 I’m currently learning **Cloud Engineering**
 
 - 📫 How to reach me **contact.hrishabhchoudhary@gmail.com**
+
+- Portfolio - 52+ Web Dev / 7 Software / 5 Data Analytics Project
+
+- Open for work.....
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- Snake Game Repo View -->
 
