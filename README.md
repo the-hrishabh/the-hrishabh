@@ -2,7 +2,7 @@
 <h1 align="center">This Is Hrishabh Choudhary</h1>
 <h3 align="center">Software Developer / DevOps Engineer</h3>
 
-<img width="500" height="220" alt="image" src="https://github.com/user-attachments/assets/f5948d16-0189-4ad8-b74f-46317aaec3b0"/>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxodGtqdDgybXpzOXQ3eXVuaGxyOWN0MHgxd2RtZ2FsajRjcTYyaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hHxTQkcjmHUTC/giphy.gif"/>
 
 >
 - 🔭 I’m currently working on **HSI**
@@ -10,6 +10,12 @@
 - 🌱 I’m currently learning **Cloud Engineering**
 
 - 📫 How to reach me **contact.hrishabhchoudhary@gmail.com**
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
